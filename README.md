@@ -1,1 +1,1 @@
-# Classy
+# Class
